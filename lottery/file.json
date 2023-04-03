@@ -1,9 +1,14 @@
 {
 "mor" : "http://www.nagalandlotteries.com/?morn=pdf",
-"mor1" : "https://1",
-"day" : "http://www.nagalandlotteries.com/?noon=pdf",
-"day1" : "https://2",
-"eve" : "http://www.nagalandlotteries.com/?even=pdf",
-"eve1" : "https://3"
 
+"day" : "http://www.nagalandlotteries.com/?noon=pdf",
+
+"eve" : "http://www.nagalandlotteries.com/?even=pdf",
+
+
+"mor1" : "http://www.dhankesari.com/download.php?filename=MD",
+
+"day1" : "http://www.dhankesari.com/download.php?filename=DD",
+
+"eve1" : "http://www.dhankesari.com/download.php?filename=ED"
 }

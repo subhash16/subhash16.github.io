@@ -1,4 +1,7 @@
 {
+"ver" : "19",
+
+
 "mor" : "http://www.nagalandlotteries.com/?morn=pdf",
 "day" : "http://www.nagalandlotteries.com/?noon=pdf",
 "eve" : "http://www.nagalandlotteries.com/?even=pdf",
@@ -18,4 +21,6 @@
 "oldmor1" : "http://www.dhankesari.com/oldresultsdown.php?filename=MD",
 "oldday1" : "http://www.dhankesari.com/oldresultsdown.php?filename=DD",
 "oldeve1" : "http://www.dhankesari.com/oldresultsdown.php?filename=ED"
+
+
 }

@@ -1,20 +1,20 @@
 {
     "result": [
         {
-            "text": "Holi",
-            "link1": "website 1",
-            "link2": "website 2"
+            "text": "Dear 200 Monthly 08/04/23",
+            "link1": "http://www.dhankesari.com/download.php?filename=TH080423.PDF",
+            "link2": "http://www.dhankesari.com/oldresultsdown.php?filename=TH080423.PDF"
         },
         {
-            "text": "New year",
-            "link1": "website 3",
-            "link2": "website 4"
+            "text": "Dear 200 Monthly 25/03/23",
+            "link1": "http://www.dhankesari.com/download.php?filename=TH250323.PDF",
+            "link2": "http://www.dhankesari.com/oldresultsdown.php?filename=TH250323.PDF"
         },
         {
-            "text": "Netaji",
-            "link1": "website 5",
-            "link2": "website 6"
+            "text": "Holi Bumper 11/03/23",
+            "link1": "http://www.dhankesari.com/download.php?filename=NH110323.PDF",
+            "link2": "http://www.dhankesari.com/oldresultsdown.php?filename=NH110323.PDF"
         }
     ],
-    "ver": "19"
+    "ver": "20"
 }

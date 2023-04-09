@@ -1,0 +1,20 @@
+{
+    "result": [
+        {
+            "text": "Holi",
+            "link1": "website 1",
+            "link2": "website 2"
+        },
+        {
+            "text": "New year",
+            "link1": "website 3",
+            "link2": "website 4"
+        },
+        {
+            "text": "Netaji",
+            "link1": "website 5",
+            "link2": "website 6"
+        }
+    ],
+    "ver": "19"
+}

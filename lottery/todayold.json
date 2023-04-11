@@ -1,15 +1,15 @@
 {
 "ver" : "20",
 
-"mor1" : "http://www.dhankesari.com/download.php?filename=MD",
+"mor1" : "",
 "day1" : "http://www.dhankesari.com/download.php?filename=DD",
 "eve1" : "http://www.dhankesari.com/download.php?filename=ED",
 
 
 
-"mor" : "http://www.nagalandlotteries.com/?morn=pdf",
-"day" : "http://www.nagalandlotteries.com/?noon=pdf",
-"eve" : "http://www.nagalandlotteries.com/?even=pdf",
+"mor" : "directlink",
+"day" : "directlink",
+"eve" : "directlink",
 
 "oldmor1" : "http://www.dhankesari.com/oldresultsdown.php?filename=MD",
 "oldday1" : "http://www.dhankesari.com/oldresultsdown.php?filename=DD",
@@ -17,8 +17,8 @@
 
 
 
-"oldmor" : "http://www.nagalandlotteries.com/lotteryoldresultsdown.php?filename=MN",
-"oldday" : "http://www.nagalandlotteries.com/lotteryoldresultsdown.php?filename=DN",
-"oldeve" : "http://www.nagalandlotteries.com/lotteryoldresultsdown.php?filename=EN"
+"oldmor" : "till MD",
+"oldday" : "till DD",
+"oldeve" : "till ED"
 
 }

@@ -6,19 +6,9 @@
 "eve1" : "http://www.dhankesari.com/download.php?filename=ED",
 
 
-
-"mor" : "http://www.nagalandlotteries.com/?morn=pdf",
-"day" : "http://www.nagalandlotteries.com/?noon=pdf",
-"eve" : "http://www.nagalandlotteries.com/?even=pdf",
-
 "oldmor1" : "http://www.dhankesari.com/oldresultsdown.php?filename=MD",
 "oldday1" : "http://www.dhankesari.com/oldresultsdown.php?filename=DD",
 "oldeve1" : "http://www.dhankesari.com/oldresultsdown.php?filename=ED",
 
-
-
-"oldmor" : "http://www.nagalandlotteries.com/lotteryoldresultsdown.php?filename=MN",
-"oldday" : "http://www.nagalandlotteries.com/lotteryoldresultsdown.php?filename=DN",
-"oldeve" : "http://www.nagalandlotteries.com/lotteryoldresultsdown.php?filename=EN"
 
 }

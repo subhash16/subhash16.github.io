@@ -12,14 +12,14 @@
 "day" : "directlink",
 "eve" : "directlink",
 
-"oldmor1" : "http://www.dhankesari.com/oldresultsdown.php?filename=MD",
-"oldday1" : "http://www.dhankesari.com/oldresultsdown.php?filename=DD",
-"oldeve1" : "http://www.dhankesari.com/oldresultsdown.php?filename=ED",
+"oldmor1" : "",
+"oldday1" : "",
+"oldeve1" : "",
 
 
 
-"oldmor" : "till MD",
-"oldday" : "till DD",
-"oldeve" : "till ED"
+"oldmor" : "https://www.lotterysambad.com/lotteryoldresultsdown.php?filename=MD",
+"oldday" : "https://www.lotterysambad.com/lotteryoldresultsdown.php?filename=DD",
+"oldeve" : "https://www.lotterysambad.com/lotteryoldresultsdown.php?filename=ED"
 
 }

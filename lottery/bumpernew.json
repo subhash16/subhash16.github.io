@@ -1,6 +1,11 @@
 {
     "result": [
         {
+            "text": "Dear 500 SAT Weekly 8:00 PM",
+            "link1": "https://www.lotterysambad.com/fetchtoday.php?filename=DS091223.PDF",
+            "link2": "https://www.lotterysambad.com/fetchtoday.php?filename=DS091223.PDF"
+        },
+        {
             "text": "Dear 200 Punjab Monthly 05/12/23",
             "link1": "https://hinduwb.files.wordpress.com/2023/12/mt051223.pdf",
             "link2": "https://hinduwb.files.wordpress.com/2023/12/mt051223.pdf"
@@ -49,28 +54,7 @@
             "text": "Dear 500 BI-Monthly 21/10/23",
             "link1": "https://hinduwb.files.wordpress.com/2023/10/fb211023.pdf",
             "link2": "https://hinduwb.files.wordpress.com/2023/10/fb211023.pdf"
-        },
-        {
-            "text": "Dear 500 BI-Monthly 14/10/23",
-            "link1": "https://hinduwb.files.wordpress.com/2023/10/fb141023.pdf",
-            "link2": "https://hinduwb.files.wordpress.com/2023/10/fb141023.pdf"
-        },
-        {
-            "text": "Dear 200 Gold Monthly 07/10/23",
-            "link1": "https://hinduwb.files.wordpress.com/2023/10/th071023.pdf",
-            "link2": "https://hinduwb.files.wordpress.com/2023/10/th071023.pdf"
-        },
-        {
-            "text": "Punjab Dear 200 Monthly 01/10/23",
-            "link1": "https://hinduwb.files.wordpress.com/2023/10/mt011023.pdf",
-            "link2": "https://hinduwb.files.wordpress.com/2023/10/mt011023.pdf"
-        },
-        {
-            "text": "Dear 500 Monthly 30/09/23",
-            "link1": "https://hinduwb.files.wordpress.com/2023/09/mf300923.pdf",
-            "link2": "https://hinduwb.files.wordpress.com/2023/09/mf300923.pdf"
         }
-        
         
     ],
     "ver": "31",

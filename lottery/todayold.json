@@ -2,13 +2,13 @@
 "ver": "32",
 "ver2": "17",
 
-"mor1" : "https://www.lotterysambad.com/fetchtoday.php?filename=MD",
+"mor1" : "",
 "day1" : "https://www.lotterysambad.com/fetchtoday.php?filename=DD",
 "eve1" : "https://www.lotterysambad.com/fetchtoday.php?filename=ED",
 
 
 
-"mor" : "directlink",
+"mor" : "https://subhash16.github.io/lottery/morning.html",
 "day" : "directlink",
 "eve" : "directlink",
 

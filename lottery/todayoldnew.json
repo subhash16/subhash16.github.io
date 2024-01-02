@@ -2,15 +2,15 @@
 "ver": "32",
 "ver2": "17",
 
-"mor1" : "https://dearinfo.in/wp-content/uploads/",
-"day1" : "https://dearinfo.in/wp-content/uploads/",
-"eve1" : "https://dearinfo.in/wp-content/uploads/",
+"mor1" : "directtillMD",
+"day1" : "directtillDD",
+"eve1" : "directillED",
 
 
 
-"mor" : "directlink",
-"day" : "directlink",
-"eve" : "directlink",
+"mor" : "https://dearinfo.in/wp-content/uploads/",
+"day" : "https://dearinfo.in/wp-content/uploads/",
+"eve" : "https://dearinfo.in/wp-content/uploads/",
 
 "oldmor1" : "https://www.lotterysambad.com/lotteryoldresultsdown.php?filename=MD",
 "oldday1" : "https://www.lotterysambad.com/lotteryoldresultsdown.php?filename=DD",

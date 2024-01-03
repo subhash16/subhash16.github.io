@@ -2,9 +2,9 @@
 "ver": "32",
 "ver2": "18",
 
-"mor1" : "https://www.lotterysambad.com/fetchtoday.php?filename=MD",
-"day1" : "https://www.lotterysambad.com/fetchtoday.php?filename=DD",
-"eve1" : "https://www.lotterysambad.com/fetchtoday.php?filename=ED",
+"mor1" : "",
+"day1" : "",
+"eve1" : "",
 
 
 
@@ -12,9 +12,9 @@
 "day" : "https://dearinfo.in/wp-content/uploads/",
 "eve" : "https://dearinfo.in/wp-content/uploads/",
 
-"oldmor1" : "https://www.lotterysambad.com/lotteryoldresultsdown.php?filename=MD",
-"oldday1" : "https://www.lotterysambad.com/lotteryoldresultsdown.php?filename=DD",
-"oldeve1" : "https://www.lotterysambad.com/lotteryoldresultsdown.php?filename=ED",
+"oldmor1" : "",
+"oldday1" : "",
+"oldeve1" : "",
 
 
 

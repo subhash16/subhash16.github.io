@@ -2,19 +2,19 @@
     "result": [
         {
             "text": "1:00 PM",
-            "text": "MD",
+            "text1": "MD",
             "link1": "https://hinduwb.files.wordpress.com/2023/11/ds041123.pdf",
             "link2": "https://hinduwb.files.wordpress.com/2023/11/ds041123.pdf"
         },
         {
             "text": "6:00 PM",
-            "text": "DD",
+            "text1": "DD",
             "link1": "https://hinduwb.files.wordpress.com/2023/11/ds041123.pdf",
             "link2": "https://hinduwb.files.wordpress.com/2023/11/ds041123.pdf"
         },
         {
             "text": "8:00 PM",
-            "text": "ED",
+            "text1": "ED",
             "link1": "https://hinduwb.files.wordpress.com/2023/11/ds041123.pdf",
             "link2": "https://hinduwb.files.wordpress.com/2023/11/ds041123.pdf"
         }

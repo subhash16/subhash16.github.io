@@ -1,7 +1,46 @@
 {
 "ver": "33",
 "ver2": "19",
-
+"result": [
+        {
+            "text": "1:00 PM",
+            "text1": "MD",
+            "link1": "https://dearinfo.in/wp-content/uploads/",
+            "link2": "http://www.dhankesari.com/download.php?filename="
+        },
+        {
+            "text": "6:00 PM",
+            "text1": "DD",
+            "link1": "https://dearinfo.in/wp-content/uploads/",
+            "link2": "http://www.dhankesari.com/download.php?filename="
+        },
+        {
+            "text": "8:00 PM",
+            "text1": "ED",
+            "link1": "https://dearinfo.in/wp-content/uploads/",
+            "link2": "http://www.dhankesari.com/download.php?filename="
+        }
+    ],
+"resultold": [
+        {
+            "text": "1:00 PM",
+            "text1": "MD",
+            "link1": "https://dearinfo.in/wp-content/uploads/",
+            "link2": "http://www.dhankesari.com/oldresultsdown.php?filename="
+        },
+        {
+            "text": "6:00 PM",
+            "text1": "DD",
+            "link1": "https://dearinfo.in/wp-content/uploads/",
+            "link2": "http://www.dhankesari.com/oldresultsdown.php?filename="
+        },
+        {
+            "text": "8:00 PM",
+            "text1": "ED",
+            "link1": "https://dearinfo.in/wp-content/uploads/",
+            "link2": "http://www.dhankesari.com/oldresultsdown.php?filename="
+        }
+    ],
 "mor1" : "http://www.dhankesari.com/download.php?filename=MD",
 "day1" : "http://www.dhankesari.com/download.php?filename=DD",
 "eve1" : "http://www.dhankesari.com/download.php?filename=ED",

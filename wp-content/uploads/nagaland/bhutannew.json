@@ -1,0 +1,48 @@
+{
+"ver": "100",
+"sms": "Welcome",
+"result": [
+        {
+            "text": "11:55 AM",
+            "text1": "MK",
+            "link1": "https://dearinfo.in/wp-content/uploads/"
+        },
+{
+            "text": "04:00 PM",
+            "text1": "DK",
+            "link1": "https://dearinfo.in/wp-content/uploads/"
+        },
+{
+            "text": "08:00 PM",
+            "text1": "EK",
+            "link1": "https://dearinfo.in/wp-content/uploads/"
+        },
+{
+            "text": "Bumper 05:30 PM",
+            "text1": "BU",
+            "link1": "https://dearinfo.in/wp-content/uploads/"
+        }
+    ],
+"resultold": [
+        {
+            "text": "11:55 AM",
+            "text1": "MK",
+            "link1": "https://dearinfo.in/wp-content/uploads/"
+        },
+{
+            "text": "04:00 PM",
+            "text1": "DK",
+            "link1": "https://dearinfo.in/wp-content/uploads/"
+        },
+{
+            "text": "08:00 PM",
+            "text1": "EK",
+            "link1": "https://dearinfo.in/wp-content/uploads/"
+        },
+{
+            "text": "Bumper 05:30 PM",
+            "text1": "BU",
+            "link1": "https://dearinfo.in/wp-content/uploads/"
+        }
+    ]
+}

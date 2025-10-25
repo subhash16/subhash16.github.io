@@ -1,0 +1,20 @@
+{
+"ver": "100",
+"sms": "Welcome",
+"result": [
+        {
+            "text": "3:00 PM",
+            "text1": "BT",
+            "link1": "https://dearinfo.in/wp-content/uploads/",
+            "link2": ""
+        }
+    ],
+"resultold": [
+        {
+            "text": "3:00 PM",
+            "text1": "BT",
+            "link1": "https://dearinfo.in/wp-content/uploads/",
+            "link2": ""
+        }
+    ]
+}
